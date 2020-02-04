@@ -1,2 +1,1 @@
-# E7Automater
-Using Image Recognition to automate E7
+Automake MHW steamworks because i am lazy
